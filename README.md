@@ -35,6 +35,12 @@ think about more factors that affects the efficiency and speed of training
 
 ## To-do
 [ ] write code for neural network for training each subset
+
+
 [ ] establish the distributed federated learning structure
+
+
 [ ] experiment with different factors and collect results
+
+
 [ ] visualise results and write up conclusion
